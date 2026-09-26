@@ -1,11 +1,11 @@
-# Zealit Hotel POS
+# RJ Hotel POS
 
 A working React + TypeScript + Vite frontend for a hotel/restaurant. Start in Point of sale, choose Dine-in or Parcel, add items, and send an order to the kitchen. Open Orders to collect payment and print the receipt (choose Save as PDF in the browser print dialog).
 
 ## Start
 
 ```powershell
-cd 'D:\Aggrandize Project\Project\Zealit-App'
+cd 'D:\rj\Hotal-app'
 npm install
 npm run dev
 ```
@@ -26,7 +26,7 @@ node 'C:\nvm4w\nodejs\node_modules\npm\bin\npm-cli.js' run dev
 - Food editor with vegetarian status, availability, separate prices and image upload (500 KB).
 - Today's dashboard; date-range, weekly and monthly reports; food/category/payment/tax breakdowns and CSV.
 - Owner, Cashier, Waiter and Kitchen demo views with UI permissions.
-- Browser-local persistence under `zealit-hotel-pos-v1`. Menu prices are copied into order lines so historical bills retain their prices.
+- Browser-local persistence under `rj-hotel-pos-v1`. Menu prices are copied into order lines so historical bills retain their prices.
 
 ## Financial conventions
 
