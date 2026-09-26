@@ -5,7 +5,7 @@ A working React + TypeScript + Vite frontend for a hotel/restaurant. Start in Po
 ## Start
 
 ```powershell
-cd 'D:\hotel/rj'
+cd 'D:\hotel\rj'
 npm install
 npm run dev
 ```
